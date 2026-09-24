@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - arcade
 post: https://medium.com/@etchells.kevin/off-the-lines-a-js13k-game-cfa4ad6f0ee6
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
